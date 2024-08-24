@@ -1,6 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  text-align: justify;
 }
 
 a {
@@ -234,7 +235,7 @@ h6 {
   background: url("../img/full\ stack\ developer\ cover\ pic\ full.jpg");
     /* top center; */
   background-size: cover;
-  background-position: center;
+  background-position: 54% 0%;
   
 }
 
@@ -795,7 +796,7 @@ section {
   border-radius: 4px;
 }
 
-.contact .php-email-form button[type="submit"]:hover {
+.contact .php-email-form [type="submit"]:hover {
   background: #37b3ed;
 }
 
